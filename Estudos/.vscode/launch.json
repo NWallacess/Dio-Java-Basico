@@ -1,0 +1,97 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMeScaner",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.terminal_e_argumentos.AboutMeScaner",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Nicholas",
+                "Wallace",
+                23,
+                1.75
+            ],
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiaDasClasse",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.anotomiadasclasse.AnatomiaDasClasse",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.anotomiadasclasse.BoletimEstudantil",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.anotomiadasclasse.MinhaClasse",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "usuario",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.metodos.usuario",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "Operadores_Exemplo_Livro",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.operadores.Operadores_Exemplo_Livro",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe(1)",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.terminal_e_argumentos.AboutMe",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(2)",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.terminal_e_argumentos.MinhaClasse",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "aprendendoasintaxejava.tiposevariaveis.TiposVariaveis",
+            "projectName": "Dio-Java-Basico_7e7e6241"
+        }
+    ]
+}
